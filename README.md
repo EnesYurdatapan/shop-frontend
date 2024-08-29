@@ -1,3 +1,13 @@
+Shop-frontend is a small angular project for me to learn basics of web programming and angular.
+
+INSTALLATION
+
+Clone the repository<BR>
+Open command shell and run npm install to install packages<br>
+Run ng serve to start the project.<br>
+
+
+
 # Northwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
